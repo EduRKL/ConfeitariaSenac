@@ -1,0 +1,12 @@
+package com.senacead.confeitaria;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ConfeitariaApp {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ConfeitariaApp.class, args);
+    }
+}
